@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DataPrograming", "DataPrograming\DataPrograming.fsproj", "{485245C7-CFD8-42E2-B0CA-EA8D57BBDAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{485245C7-CFD8-42E2-B0CA-EA8D57BBDAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485245C7-CFD8-42E2-B0CA-EA8D57BBDAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485245C7-CFD8-42E2-B0CA-EA8D57BBDAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485245C7-CFD8-42E2-B0CA-EA8D57BBDAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B21C1B-6E77-4075-8230-13655C103CED}
+	EndGlobalSection
+EndGlobal
